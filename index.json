@@ -1,0 +1,11 @@
+{
+  "org": "sgl-project",
+  "repo": "SpecForge",
+  "versions": [
+    {
+      "commit": "fdcc2eddf1b56b5b24a5a15d3abcb366adfeb5aa",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:21:37.186074+00:00"
+    }
+  ]
+}
