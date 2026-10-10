@@ -1,0 +1,7 @@
+[2026-10-10T07:14:58Z] === AST ITERATION 1 START | repo=sgl-project/SpecForge sha=fdcc2edd ===
+[2026-10-10T07:14:58Z] [iter=1] PHASE START: ast repo=sgl-project/SpecForge sha=fdcc2edd
+[2026-10-10T07:14:58Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T07:19:44Z] [iter=1] AST chunks built count=1 triples=3561657
+[2026-10-10T07:19:44Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/fdcc2eddf1b56b5b24a5a15d3abcb366adfeb5aa/.complete
+[2026-10-10T07:19:44Z] [iter=1] PHASE END: ast elapsed_s=285 elapsed_min=4.8
+[2026-10-10T07:19:44Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

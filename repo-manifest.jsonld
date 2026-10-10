@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sgl-project/SpecForge/commit/fdcc2eddf1b56b5b24a5a15d3abcb366adfeb5aa",
       "git:hexsha": "fdcc2eddf1b56b5b24a5a15d3abcb366adfeb5aa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
